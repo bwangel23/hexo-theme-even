@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2015
+since: 2016
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -11,7 +11,7 @@ favicon: /favicon.ico
 # Set feed link (false | default | your feed link)
 # false: disable
 # default: use `atom.xml`, generator for `hexo-generator-feed`
-rss: false
+rss: default
 
 # ===========================================
 # Menu Settings
@@ -19,12 +19,12 @@ rss: false
 menu:
   Home: /
   Archives: /archives/
-  # Tags: /tags
+  Tags: /tags
   # Categories: /categories
-  # About: /about
+  About: /about
 
 # site search option
-search: false
+search: true
 
 # Fancybox
 fancybox: true
@@ -41,27 +41,27 @@ theme:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
-  stack-overflow:
+  email: bwangel.me@gmail.com
+  stack-overflow: http://stackoverflow.com/users/5161084/yundong-xu
   twitter:
   facebook:
-  github: 
-  weibo: 
-  zhihu: 
+  github: https://github.com/bwangel23/
+  weibo: http://weibo.com/3093227873/profile?topnav=1&wvr=6
+  zhihu:
 
 # ===========================================
 # Third Party Services Settings
 # ===========================================
 
 # Baidu Analytics
-baidu_analytics: 
+baidu_analytics:
 # Google Analytics
-google_analytics: 
+google_analytics: UA-89788711-1
 
 # Duoshuo
-duoshuo_shortname: 
+duoshuo_shortname:
 # Disqus
-disqus_shortname: 
+disqus_shortname: bwangel
 
 
 # ===========================================
