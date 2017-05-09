@@ -37,7 +37,7 @@ fancybox: true
 theme:
   color: Default
   toc: true
-  search: false
+  search: true
   fancybox: false
 
 copyright:
