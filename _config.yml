@@ -41,7 +41,7 @@ theme:
   fancybox: false
 
 copyright:
-  enable: true
+  enable: false
   # https://creativecommons.org/
   license: '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
 
@@ -62,13 +62,18 @@ social:
   github: https://github.com/bwangel23/
   weibo: http://weibo.com/3093227873/profile?topnav=1&wvr=6
   zhihu:
+  pocket:
+  tumblr:
 
 # ===========================================
 # Third Party Services Settings
 # ===========================================
 
 # Baidu Analytics
-baidu_analytics:
+baidu_analytics: 
+# Baidu Verification
+baidu_verification: 
+
 # Google Analytics
 google_analytics: UA-89788711-1
 
@@ -77,8 +82,10 @@ duoshuo_shortname:
 # Disqus
 disqus_shortname: bwangel
 
+# Google Verification
+google_verification:
 
 # ===========================================
 # Version
 # ===========================================
-version: 2.4.x
+version: 2.5.0
